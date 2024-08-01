@@ -1,8 +1,8 @@
-Multi-Loader 2.0 Plus para PlayStation 2™
+Multi-Loader 2.0 Plus para PlayStation 2 ✔
 
-Extrair e copiar os arquivos na raiz do seu drive mass:/
+Extrair e copiar os arquivos na raiz do seu drive (mass:/)
 
-main.js precisa estar na raiz da sua unidade de massa.
+**main.js** precisa estar na raiz da sua unidade de massa.
 
 MULTILOADER.ELF será executado na raiz da sua unidade de massa.
 
